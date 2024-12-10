@@ -1,4 +1,4 @@
-# task
+# To-Do List
 To-Do List Manager
 This app is a **Simple To-Do List Manager** designed for tracking tasks efficiently. Users can:
 
